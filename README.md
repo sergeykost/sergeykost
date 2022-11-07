@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
+### Hi there! My name is Sergi Kostyuchenko
+###### Let's look around 😻
+    - 🔭 I’m currently studying on Flutter and Dart
+    - 👾 ask me about App Development
+
 
 <!--
 **sergeykost/sergeykost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
